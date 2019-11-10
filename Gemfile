@@ -6,4 +6,6 @@ gem 'cucumber'
 
 gem 'page-object'
 
-gem 'rspec'
+gem 'rspec-expectations'
+
+gem 'rspec-core'
