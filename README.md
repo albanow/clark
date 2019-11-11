@@ -38,14 +38,25 @@
 
 > rspec
 
-## To execute cucumber scenarios:
+## To execute cucumber features:
 
-### For both scenarios:
+### For both fatures:
+
 `$ cucumber features/login.feature  features/home_tabs.feature`
 
-### For single scenario: 
+### For single feature: 
+
 `$ cucumber features/login.feature`
+
 or 
+
 `$ cucumber features/home_tabs.feature`
 
 A json file for test data is used to centralize the data and run script in different environmets (prod, qa, stage, etc)
+
+## Improvements
+
+ -Take a screenshot for failed/passed step.
+ -Create a log file for each execution to debug failures.
+ -Define in json test data a key->value pair to switch the browser (chrome, firefox, IE, etc) and implement logic.
+
