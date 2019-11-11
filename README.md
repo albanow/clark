@@ -32,9 +32,11 @@
 > selenium-webdriver 3.142.6
 
 ## Main gems used:
->selenium-webdriver
->cucumber
->rspec
+> selenium-webdriver
+
+> cucumber
+
+> rspec
 
 ## To execute cucumber scenarios:
 
