@@ -4,6 +4,4 @@ gem 'selenium-webdriver'
 
 gem 'cucumber'
 
-gem 'rspec-expectations'
-
-gem 'rspec-core'
+gem 'rspec'
