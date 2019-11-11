@@ -106,7 +106,7 @@ class HomeTab
   end
   
   ##
-  # Recommend Clarck Now text link in left column
+  # Recommend Clark Now text link in left column
 
   def recommend_clark_now
     recommend = @wait.until{
