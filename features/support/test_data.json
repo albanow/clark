@@ -2,6 +2,10 @@
   "prod_email": "steffen.glomb@posteo.de",
   "prod_password": "Hallo123",
   "prod_wrong_email": "aaaaaa@gmail.com",
-  "prod_wrong_password": "1234567"
-
+  "prod_wrong_password": "1234567",
+  "prod_url": "https://www.clark.de/",
+  "prod_active_contracts": "3",
+  "prod_email_friend": "asfdfdsdf@gmail.com",
+  "prod_success_invite_send": "erfolgreich versendet",
+  "prod_wrong_email_pass": "E-Mail-Adresse oder Passwort ungültig."
 }
