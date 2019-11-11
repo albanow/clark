@@ -1,6 +1,6 @@
-Feature: Validate the tabs in home page after logged in and invite a friend via email
+Feature: Tabs in home page and invite a friend via email
 
-  After login validate the following scenarios:
+  After login validate the following:
   - In the tab 'Verträge' assert that there are 3 contracts with 'Gut versichert'
   - In the tab 'Rente' assert that 'Dein Renteneinkommen' ist above 2400 Euro
   - In the tab 'Bedarf' assert 'Du hast alle empfohlenen Produkte!' in the left column.
