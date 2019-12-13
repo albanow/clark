@@ -1,6 +1,6 @@
 {
-  "prod_email": "steffen.glomb@posteo.de",
-  "prod_password": "Hallo123",
+  "prod_email": "",
+  "prod_password": "",
   "prod_wrong_email": "aaaaaa@gmail.com",
   "prod_wrong_password": "1234567",
   "prod_url": "https://www.clark.de/",
